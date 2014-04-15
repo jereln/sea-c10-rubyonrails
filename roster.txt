@@ -1,2 +1,7 @@
 name, email, github
+<<<<<<< HEAD
 Jerel Navarrete, navarrete.jerel@gmail.com, jereln
+=======
+Renée Hendricksen, renee@nird.us, reneedv
+Matthew Viens, Matthew.J.Viens@gmail.com, MatthewViens
+>>>>>>> 790c113a30847fb145160579fac325a1cf65c7d8
