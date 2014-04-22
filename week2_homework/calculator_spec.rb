@@ -1,4 +1,5 @@
-require "#{File.dirname(__FILE__)}/calculator"
+#require "#{File.dirname(__FILE__)}/calculator"
+require_relative 'calculator'
 
 describe Calculator do
 
